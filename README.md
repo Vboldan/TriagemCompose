@@ -1,5 +1,7 @@
 # TriagemCompose
 
+![TriagemCompose](./TriagemCompose.png)
+
 Aplicativo Android desenvolvido com Jetpack Compose para triagem de pacientes.
 
 ## Funcionalidades
@@ -14,4 +16,14 @@ Aplicativo Android desenvolvido com Jetpack Compose para triagem de pacientes.
 2. Escolha a cor de triagem
 3. Confirme e visualize os pacientes triados
 
-Criado por:  Valdeci Boldan.
+## Como inserir esta imagem no README
+- Usando caminho relativo (imagem armazenada no repositório):
+  ![TriagemCompose](./TriagemCompose.png)
+
+- Usando o raw URL do GitHub:
+  ![TriagemCompose](https://raw.githubusercontent.com/Vboldan/TriagemCompose/master/TriagemCompose.png)
+
+- Controlando o tamanho com HTML (ex.: largura 400px):
+  <img src="./TriagemCompose.png" alt="TriagemCompose" width="400"/>
+
+Criado por: Valdeci Boldan.
