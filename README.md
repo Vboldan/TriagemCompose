@@ -23,7 +23,9 @@ Aplicativo Android desenvolvido com Jetpack Compose para triagem de pacientes.
 - Usando o raw URL do GitHub:
   ![TriagemCompose](https://raw.githubusercontent.com/Vboldan/TriagemCompose/master/TriagemCompose.png)
 
+<!-- 
 - Controlando o tamanho com HTML (ex.: largura 400px):
   <img src="./TriagemCompose.png" alt="TriagemCompose" width="200"/>
+-->
 
 Criado por: Valdeci Boldan.
