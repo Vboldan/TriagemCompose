@@ -1,5 +1,7 @@
 # TriagemCompose
 
+![Banner](./TriagemCompose.png)
+
 Aplicativo Android desenvolvido com Jetpack Compose para triagem de pacientes.
 
 ## Funcionalidades
